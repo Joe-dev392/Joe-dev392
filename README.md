@@ -96,7 +96,7 @@ Blending **AI perception**, **robotics**, and **predictive intelligence**.
 ## 🏆 Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joe-dev392&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-dev392&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
